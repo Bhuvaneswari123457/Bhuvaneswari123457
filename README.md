@@ -7,7 +7,7 @@ I’m currently working on: Building automation bots  and developing scalable ap
 I’m currently learning: Advanced AI orchestration including CrewAI, LangGraph, and MLOps.👯
 I’m looking to collaborate on: Innovative Generative AI projects, specifically those involving Multi-Agent systems and Stateful Agents.💬
 Ask me about: Java Spring Boot, Apache Kafka, Microservices , and my experience building production-grade features at Gap Inc. and Barclays.📫 
-How to reach me: bhuvaneswarichodisetty@gmail.com or connect with me on LinkedIn.⚡ Fun fact: I have a track record of delivering high-quality production code ahead of schedule , including completing live features at Barclays before the deadlines.
+How to reach me: bhuvaneswarichodisetty@gmail.com or connect with me on LinkedIn.⚡ Fun fact: I have a track record of delivering high-quality production code ahead of schedule , including completing live features before the deadlines.
 
 ### 🛠 Tech Stack
 
@@ -15,8 +15,8 @@ How to reach me: bhuvaneswarichodisetty@gmail.com or connect with me on LinkedIn
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+                         ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) 
+                         ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 
 **Tools & DevOps** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
